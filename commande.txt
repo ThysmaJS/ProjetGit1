@@ -1,0 +1,3 @@
+Ici seront détaillé mes commandes : 
+
+1/ git init 
