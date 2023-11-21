@@ -13,3 +13,4 @@ Ici seront détaillé mes commandes :
 9/ git branch A --> Créer la branche "A"
 10/ git branch B --> Créer la branche "B"
 11/ git checkout A --> Allez sur la branche A 
+12/ git commit -m ( mon message ) --> Modification du f1 sur la branche A 
