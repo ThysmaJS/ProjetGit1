@@ -1,3 +1,6 @@
 Ici seront détaillé mes commandes : 
 
-1/ git init 
+1/ git init --> initier le repertoir GIT
+2/ git add -A --> Ajout des fichiers de base (f1, f2 et commande)
+3/ git commit -m ( mon message ) --> Premier commit qui initie le projet 
+4/  
