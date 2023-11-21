@@ -6,3 +6,6 @@ Ici seront détaillé mes commandes :
 4/ git commit -m ( mon message ) --> Modification des fichiers F1 et F2 
 5/ git add -A --> Ajout des fichiers demandé (f3 et f4)
 6/ git commit -m ( mon message ) --> Ajout des fichiers demandé f3 et f4
+7/ git add -A --> Ajout des fichiers demandé (gitignore)
+8/ git commit -m ( mon message ) --> Ajout des fichiers demandé + ignore f3 et f4
+
