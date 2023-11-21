@@ -8,4 +8,8 @@ Ici seront détaillé mes commandes :
 6/ git commit -m ( mon message ) --> Ajout des fichiers demandé f3 et f4
 7/ git add -A --> Ajout des fichiers demandé (gitignore)
 8/ git commit -m ( mon message ) --> Ajout des fichiers demandé + ignore f3 et f4
-
+7/ git add -A --> Ajout des fichiers demandé (f5 et f6)
+8/ git commit -m ( mon message ) --> Ajout des fichiers demandé f5 et f6
+9/ git branch A --> Créer la branche "A"
+10/ git branch B --> Créer la branche "B"
+11/ git checkout A --> Allez sur la branche A 
